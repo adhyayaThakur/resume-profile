@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 p{
-  @apply text-red-200
+  @apply text-red-500
 }
